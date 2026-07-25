@@ -4,10 +4,10 @@ Me? Just hanging around. Enjoying low-level and functional programming. Writing 
 Some interesting things I've worked on so far:
 
 - Projects & experiments:
-  - [Astra Trails](https://github.com/0riginaln0/astra-trails) - Lua web microframework with data-driven routing, middlewares pattern, LugSQL (HugSQL-like library).
-  - [pragtical-c3](https://github.com/0riginaln0/pragtical-c3) - C3 language support with go-to definition and format selection plugins.
-  - [caasm](https://github.com/0riginaln0/caasm)
-  - [Lua Time](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db)
+  - [Astra Trails](https://github.com/0riginaln0/astra-trails) - a self-contained Lua web microframework with data-driven routing, middleware pattern, LugSQL (HugSQL-like library) and other niceties.
+  - [pragtical-c3](https://github.com/0riginaln0/pragtical-c3) - VSCode's C3 extension didn't work, so I made _go-to-definition_ and _format selection_ plugins for _[Pragtical](https://pragtical.dev/)_.
+  - [caasm](https://github.com/0riginaln0/caasm) - C port of Ruby's _[AASM](https://github.com/aasm/aasm)_ library, preserving its compact DSL.
+  - [Lua Time](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db) - since zoomers can't count in their heads, they do unit-aware time arithmetic (duration + frequency) in Lua REPL.
   - [midi-keyboard](https://github.com/0riginaln0/midi-keyboard)
   - [bencode](https://github.com/0riginaln0/bencode)
   - [phoenix-pubsub](https://github.com/0riginaln0/phoenix-pubsub)
