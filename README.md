@@ -1,13 +1,13 @@
-Me? Just hanging around, enjoying low-level and functional programming. Writing firmware for microwave ovens for a living.
+Me? Just hanging around. Enjoying low-level and functional programming. Writing firmware for microwave ovens for a living.
 
 
-Some interesting stuff I've done so far:
+Some interesting things I've worked on so far:
 
 - Projects & experiments:
   - [Astra Trails](https://github.com/0riginaln0/astra-trails)
   - [pragtical-c3](https://github.com/0riginaln0/pragtical-c3)
   - [caasm](https://github.com/0riginaln0/caasm)
-  - [Lua time](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db)
+  - [Lua Time](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db)
   - [midi-keyboard](https://github.com/0riginaln0/midi-keyboard)
   - [bencode](https://github.com/0riginaln0/bencode)
   - [phoenix-pubsub](https://github.com/0riginaln0/phoenix-pubsub)
@@ -15,7 +15,7 @@ Some interesting stuff I've done so far:
 
 - Open source contributions:
   - [Astra](https://github.com/ArkForgeLabs/Astra)
-  - [Odin on Exercism](https://github.com/exercism/odin): Sublist exercise, memory management patches
+  - [Odin on Exercism](https://github.com/exercism/odin): Sublist exercise and memory management patches
 
 - Tutorials & explorations:
   - [dashboard](https://github.com/0riginaln0/dashboard)
