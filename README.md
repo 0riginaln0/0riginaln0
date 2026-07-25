@@ -1,6 +1,5 @@
 Me? Just hanging around. Enjoying low-level and functional programming. Writing firmware for microwave ovens for a living.
 
-
 Some interesting things I've worked on so far:
 
 - Projects & experiments:
@@ -14,12 +13,12 @@ Some interesting things I've worked on so far:
   - [midi-keyboard](https://github.com/0riginaln0/midi-keyboard) - BASS.
 
 - Open source contributions:
-  - [Astra](https://github.com/ArkForgeLabs/Astra)
-  - [Odin on Exercism](https://github.com/exercism/odin) - Sublist exercise and memory management patches
+  - [Astra](https://github.com/ArkForgeLabs/Astra) - features, bug fixes, documentation.
+  - [Odin on Exercism](https://github.com/exercism/odin)
 
 - Tutorials & explorations:
-  - [dashboard](https://github.com/0riginaln0/dashboard)
-  - [odin-enet-tutorial](https://github.com/0riginaln0/odin-enet-tutorial)
+  - [dashboard](https://github.com/0riginaln0/dashboard) - how to update a web page live without refreshing?
+  - [odin-enet-tutorial](https://github.com/0riginaln0/odin-enet-tutorial) - how to use _[ENet](https://github.com/lsalzman/enet)_ library?
   - [c-polymorphism-examples](https://github.com/0riginaln0/c-polymorphism-examples)
   - [games50-odin](https://github.com/0riginaln0/games50-odin)
   - [snake](https://github.com/0riginaln0/snake)
