@@ -11,6 +11,7 @@ Some interesting things I've worked on so far:
   - [phoenix-pubsub](https://github.com/0riginaln0/phoenix-pubsub) - _Phoenix.[PubSub](https://phoenix-pubsub.hexdocs.pm/Phoenix.PubSub.html)-style_ messaging for Python.
   - [tasks_analysis](https://github.com/0riginaln0/tasks_analysis) - Jira data analytics done in _[Elixir Livebook](https://livebook.dev/)_.
   - [midi-keyboard](https://github.com/0riginaln0/midi-keyboard) - BASS.
+  - [PersistentVector.revo](https://gist.github.com/0riginaln0/96a51b10e5202b9f79f8cde1027d7ce2)
 
 - Open source contributions:
   - [Astra](https://github.com/ArkForgeLabs/Astra) - features, bug fixes, documentation.
