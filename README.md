@@ -6,8 +6,8 @@ Some interesting things I've worked on so far:
   - [Astra Trails](https://github.com/0riginaln0/astra-trails) - a self-contained Lua web microframework with data-driven routing, middleware pattern, LugSQL (HugSQL-like library) and other niceties.
   - [cAASM](https://github.com/0riginaln0/caasm) - C port of Ruby's _[AASM](https://github.com/aasm/aasm)_ library, preserving its compact DSL.
   - [frequration.lua](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db) - since zoomers can't count in their heads, they do unit-aware time arithmetic (duration + frequency) in Lua REPL.
-  - [Pragtical C3 IDE](https://github.com/0riginaln0/pragtical-c3) - VSCode's C3 extension didn't work, so I made _go-to-definition_ and _format selection_ plugins for _[Pragtical](https://pragtical.dev/)_.
   - [bencode](https://github.com/0riginaln0/bencode) - a tiny Bencode parsing and validating C library.
+  - [Pragtical C3](https://github.com/0riginaln0/pragtical-c3) - VSCode's C3 extension didn't work, so I made _go-to-definition_ and _format selection_ plugins for _[Pragtical](https://pragtical.dev/)_.
   - [phoenix-pubsub](https://github.com/0riginaln0/phoenix-pubsub) - _Phoenix.[PubSub](https://phoenix-pubsub.hexdocs.pm/Phoenix.PubSub.html)-style_ messaging for Python.
   - [tasks_analysis](https://github.com/0riginaln0/tasks_analysis) - Jira data analytics done in _[Elixir Livebook](https://livebook.dev/)_.
   - [midi-keyboard](https://github.com/0riginaln0/midi-keyboard) - BASS.
