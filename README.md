@@ -24,7 +24,4 @@ Some interesting things I've worked on so far:
   - [games50-odin](https://github.com/0riginaln0/games50-odin)
   - [snake](https://github.com/0riginaln0/snake)
 
-- Bindings:
-  - [c3_janet.c3l](https://github.com/0riginaln0/c3_janet.c3l)
-  - [odin-partcl](https://github.com/0riginaln0/odin-partcl)
-  - [fnl-raylib](https://github.com/0riginaln0/fnl-raylib)
+
