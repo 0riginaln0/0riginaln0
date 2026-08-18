@@ -15,7 +15,7 @@ Some interesting things I've worked on so far:
   - [PersistentVector.revo](https://gist.github.com/0riginaln0/96a51b10e5202b9f79f8cde1027d7ce2)
 
 - Open source contributions:
-  - [Astra](https://github.com/ArkForgeLabs/Astra) - features, bug fixes, documentation.
+  - [Astra](https://github.com/ArkForgeLabs/Astra)
   - [Odin on Exercism](https://github.com/exercism/odin)
 
 - Tutorials & explorations:
