@@ -1,4 +1,4 @@
-Me? Just hanging around. Enjoying low-level and functional programming. Writing firmware for microwave ovens for a living.
+Me? Just hanging around. Writing firmware for microwave ovens for a living.
 
 Some interesting things I've worked on so far:
 
