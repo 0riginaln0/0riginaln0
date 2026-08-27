@@ -12,7 +12,7 @@ Some interesting things I've worked on so far:
   Lua
   - [Astra Trails](https://github.com/0riginaln0/astra-trails) - a self-contained Lua web microframework highly inspired by Clojure.
   - [frequration.lua](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db) - Lacking mental math skills, zoomers use the interactive Lua REPL to calculate time durations and frequencies.
-  - [Pragtical C3](https://github.com/0riginaln0/pragtical-c3) - C3 go-to-definition and format selection plugins for _[Pragtical](https://pragtical.dev/)_.
+  - [Pragtical C3](https://github.com/0riginaln0/pragtical-c3) - C3 setup for _[Pragtical](https://pragtical.dev/)_ with LSP and custom plugins (c3find, c3fmt).
 
   Elixir
   - [tasks_analysis](https://github.com/0riginaln0/tasks_analysis) - Jira data analytics done in _[Elixir Livebook](https://livebook.dev/)_.
