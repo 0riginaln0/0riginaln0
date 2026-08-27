@@ -8,7 +8,8 @@ Some interesting things I've worked on so far:
   - [dub.h](https://github.com/0riginaln0/dub.h) - Routing tree CLA parser.
   - [cAASM](https://github.com/0riginaln0/caasm) - C port of Ruby's _[AASM](https://github.com/aasm/aasm)_ library, preserving its compact DSL.
   - [bencode](https://github.com/0riginaln0/bencode) - a tiny Bencode parsing and validating C library.
-  - Lua
+
+  Lua
   - [Astra Trails](https://github.com/0riginaln0/astra-trails) - a self-contained Lua web microframework highly inspired by Clojure.
   - [frequration.lua](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db) - Lacking mental math skills, zoomers use the interactive Lua REPL to calculate time durations and frequencies.
   - [Pragtical C3](https://github.com/0riginaln0/pragtical-c3) - C3 go-to-definition and format selection plugins for _[Pragtical](https://pragtical.dev/)_.
