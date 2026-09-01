@@ -22,7 +22,8 @@ Some interesting things I've worked on so far:
   - [midi-keyboard](https://github.com/0riginaln0/midi-keyboard) - BASS.
 
 
-- Open source contributions:
+- Contributions:
+  - [Revo](https://github.com/if-not-nil/revo) programming language
   - [Astra](https://github.com/ArkForgeLabs/Astra)
   - [Odin on Exercism](https://github.com/exercism/odin)
 
