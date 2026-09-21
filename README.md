@@ -29,7 +29,7 @@ Some interesting things I've worked on so far:
 
 - Explorations & learning:
   - [dashboard](https://github.com/0riginaln0/dashboard)
-  - [odin-enet-tutorial](https://github.com/0riginaln0/odin-enet-tutorial) - how to use _[ENet](https://github.com/lsalzman/enet)_ library?
+  - [odin-enet-tutorial](https://github.com/0riginaln0/odin-enet-tutorial)
   - [c-polymorphism-examples](https://github.com/0riginaln0/c-polymorphism-examples)
   - [games50-odin](https://github.com/0riginaln0/games50-odin)
   - [snake](https://github.com/0riginaln0/snake)
