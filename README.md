@@ -28,7 +28,7 @@ Some interesting things I've worked on so far:
   - [Odin on Exercism](https://github.com/exercism/odin)
 
 - Explorations & learning:
-  - [dashboard](https://github.com/0riginaln0/dashboard) - how to update a web page live without refreshing?
+  - [dashboard](https://github.com/0riginaln0/dashboard)
   - [odin-enet-tutorial](https://github.com/0riginaln0/odin-enet-tutorial) - how to use _[ENet](https://github.com/lsalzman/enet)_ library?
   - [c-polymorphism-examples](https://github.com/0riginaln0/c-polymorphism-examples)
   - [games50-odin](https://github.com/0riginaln0/games50-odin)
