@@ -10,7 +10,7 @@ Some interesting things I've worked on so far:
   - [bencode](https://github.com/0riginaln0/bencode) - a tiny Bencode parsing and validating C library.
 
   Lua
-  - [Astra Trails](https://github.com/0riginaln0/astra-trails) - a self-contained Lua microframework for web development highly inspired by Clojure.
+  - [Astra Trails](https://github.com/0riginaln0/astra-trails) - a self-contained Lua microframework for webdev highly inspired by Clojure.
   - [frequration.lua](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db) - Lacking mental math skills, zoomers use the interactive Lua REPL to calculate time durations and frequencies.
   - [Pragtical C3](https://github.com/0riginaln0/pragtical-c3) - C3 setup for _[Pragtical](https://pragtical.dev/)_ with LSP and custom plugins (c3find, c3fmt).
 
