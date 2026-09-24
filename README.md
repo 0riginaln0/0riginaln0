@@ -33,6 +33,7 @@ Some interesting things I've worked on so far:
   - [c-polymorphism-examples](https://github.com/0riginaln0/c-polymorphism-examples)
   - [games50-odin](https://github.com/0riginaln0/games50-odin)
   - [snake](https://github.com/0riginaln0/snake)
+  - [font-baking-example](https://github.com/0riginaln0/font_baking_example)
   - Elixir course [p1](https://github.com/0riginaln0/elixir_course), [p2](https://github.com/0riginaln0/elixir_course_2)
 
 
