@@ -16,15 +16,14 @@ Some interesting things I've worked on so far:
 
   Elixir
   - [tasks_analysis](https://github.com/0riginaln0/tasks_analysis) - Jira data analytics done in _[Elixir Livebook](https://livebook.dev/)_.
-
-  Python
-  - [phoenix-pubsub](https://github.com/0riginaln0/phoenix-pubsub) - _Phoenix.[PubSub](https://phoenix-pubsub.hexdocs.pm/Phoenix.PubSub.html)-style_ messaging for Python.
-  - [midi-keyboard](https://github.com/0riginaln0/midi-keyboard) - BASS.
  
   Revo
   - [hiccup.revo](https://github.com/0riginaln0/hiccup.revo)
   - [PersistentVector.revo](https://gist.github.com/0riginaln0/96a51b10e5202b9f79f8cde1027d7ce2)
 
+  Python
+  - [phoenix-pubsub](https://github.com/0riginaln0/phoenix-pubsub) - _Phoenix.[PubSub](https://phoenix-pubsub.hexdocs.pm/Phoenix.PubSub.html)-style_ messaging for Python.
+  - [midi-keyboard](https://github.com/0riginaln0/midi-keyboard) - BASS.
 
 - Contributions:
   - [Revo](https://github.com/if-not-nil/revo) programming language
