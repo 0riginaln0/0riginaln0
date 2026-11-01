@@ -11,7 +11,7 @@ Some interesting things I've worked on so far:
 
   Lua
   - [Astra Trails](https://github.com/0riginaln0/astra-trails) - a self-contained Lua microframework for webdev highly inspired by Clojure.
-  - [_find](https://github.com/0riginaln0/_find) - plugin for the go-to definition action in the [Pragtical](https://pragtical.dev/) code editor.
+  - [_find](https://github.com/0riginaln0/_find) - a go-to / search plugin for the [Pragtical](https://pragtical.dev/) code editor.
   - [frequration.lua](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db) - Lacking mental math skills, zoomers use the interactive Lua REPL to calculate time durations and frequencies.
 
   Elixir
