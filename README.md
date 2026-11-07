@@ -10,9 +10,9 @@ Some interesting things I've worked on so far:
   - [bencode](https://github.com/0riginaln0/bencode) - a tiny Bencode parsing and validating C library.
 
   Lua
-  - [Astra Trails](https://github.com/0riginaln0/astra-trails) - a self-contained Lua microframework for webdev highly inspired by Clojure.
   - [_find](https://github.com/0riginaln0/_find) - a go-to / search plugin for the [Pragtical](https://pragtical.dev/) code editor.
   - [frequration.lua](https://gist.github.com/0riginaln0/a2127a7073971e71392eb26e5c5506db) - Lacking mental math skills, zoomers use the interactive Lua REPL to calculate time durations and frequencies.
+  - [Astra Trails](https://github.com/0riginaln0/astra-trails) - a self-contained Lua microframework for webdev highly inspired by Clojure.
 
   Elixir
   - [tasks_analysis](https://github.com/0riginaln0/tasks_analysis) - Jira data analytics done in _[Elixir Livebook](https://livebook.dev/)_.
