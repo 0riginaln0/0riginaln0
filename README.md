@@ -5,8 +5,8 @@ Some interesting things I've worked on so far:
 - Projects:
   
   C
-  - [dub.h](https://github.com/0riginaln0/dub.h) | [dub.c3](https://gist.github.com/0riginaln0/b849d2878a0215a042fd4f7eceeedb63) - Routing tree command-line arguments parsing approach.
   - [cAASM](https://github.com/0riginaln0/caasm) - C port of Ruby's _[AASM](https://github.com/aasm/aasm)_ library, preserving its compact DSL.
+  - [dub.c3](https://gist.github.com/0riginaln0/b849d2878a0215a042fd4f7eceeedb63) - Routing tree command-line arguments parsing approach.
   - [bencode](https://github.com/0riginaln0/bencode) - a tiny Bencode parsing and validating C library.
 
   Lua
